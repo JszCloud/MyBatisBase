@@ -11,6 +11,6 @@ CREATE TABLE `t_user` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 
-INSERT INTO t_user (username,age,address) VALUES ('实训',18,'武汉');
+INSERT INTO t_user (username,age,address) VALUES ('张三',18,'武汉');
 INSERT INTO t_user (username,age,address) VALUES ('李四',19,'贵州');
 ```
